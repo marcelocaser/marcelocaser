@@ -1,7 +1,6 @@
 ### powered by Caser 💡
 
-- 💻 Desenvolvedor <strong>Java</strong> 10 years+ com <strong>JSF</strong> e <strong>PrimeFaces</strong> <strong>+</strong> <strong>Spring Framework</strong> e <strong>Spring Boot</strong>
-- <strong>Java</strong> developer, over 10 years, with <strong>JSF</strong>, <strong>Primefaces</strong>, <strong>Spring Framework</strong> and <strong>Spring Boot</strong>.
+- 💻 <strong>Java</strong> developer, over 10 years, with <strong>JSF</strong>, <strong>Primefaces</strong>, <strong>Spring Framework</strong> and <strong>Spring Boot</strong>.
 - 🖋 <i>FullStack developer</i> with <strong>NodeJS</strong>, <strong>ReactJS</strong> and <strong>MongoDB</strong>  (em foco...💡).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocaser&hide=html&layout=compact&theme=dracula)
