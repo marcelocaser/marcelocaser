@@ -5,8 +5,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocaser&hide=html&layout=compact)
 
-<img src="https://caser-bank-api.herokuapp.com/images/nextjs-conf-ticket.png" width="400px"/> 
-
 <!--
 **marcelocaser/marcelocaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
